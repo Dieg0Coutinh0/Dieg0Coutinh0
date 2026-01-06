@@ -1,4 +1,5 @@
-*“Aprender todos os dias é o que move minha jornada na tecnologia.”*
+📌 *“Aprender todos os dias é o que move minha jornada na tecnologia.”*
+
 ## 👋 Olá, eu sou Diego Coutinho
 
 💻 Desenvolvedor Full Stack em formação  
@@ -15,9 +16,9 @@
 
 ---
 
-### 📊 GitHub Stats
-![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegocoutinho&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegocoutinho&layout=compact&theme=radical)
+### 📊 Estatísticas do GitHub
+![GitHub Streak](https://streak-stats.demolab.com?user=diegocoutinho&theme=radical)
+
 
 ---
 
@@ -43,7 +44,3 @@
 - Criar APIs seguras e escaláveis
 - Especializar-me em **Cibersegurança**
 - Contribuir com projetos open source
-
----
-
-📌 *“Aprender todos os dias é o que move minha jornada na tecnologia.”*
