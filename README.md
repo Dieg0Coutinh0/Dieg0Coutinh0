@@ -14,9 +14,8 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegocoutinho&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diegocoutinho&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegocoutinho&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diegocoutinho&layout=compact&theme=radical)
 
 ---
 
